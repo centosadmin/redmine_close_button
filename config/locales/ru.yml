@@ -1,6 +1,8 @@
 # Russian strings go here for Rails i18n
 ru:
-  button_close: "Отменить"
+  project_module_issue_cancel: Кнопка смены статуса "Отменить" 
+
+  button_close: "Закрыть"
   settings:
     cancel_issue_statuses: "При отмене задачи ставить статус"
 
